@@ -1,5 +1,5 @@
 import React from 'react';
-import './Possibility.scss'
+import './possibility.modules.scss'
 
 const Possibility = () => {
   return (
